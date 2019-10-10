@@ -2,7 +2,7 @@ spring:
   application:
     name: item-service
   rabbitmq:
-    host: 176.129.5.239
+    host: 176.129.5.240
     port: 5672
     username: admin
     password: admin   
